@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @corder2233
-- 👀 I’m interested in coding   
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on compitative coding
-- 📫 How to reach me jenashaktiman@gmail.com
+- 👋 WELCOME to the **@corder2233** world
+- 👀 I’m interested in coding.   
+- 🌱 I’m currently learning web technologies and cyber security
+- 💞️ I’m looking to foxfolk0@gmail.com
 
 <!---
 corder2233/corder2233 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
